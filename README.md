@@ -16,7 +16,7 @@ A simple and efficient Task Manager built using the MERN stack (MongoDB, Express
 ## 🚀 Features
 - ✅ **Task Management- Add, Edit, Delete and mark tasks as completed.**
 - 📅 **Set Due Dates for Tasks**
-- ✔ **Automated Email Reminders for Tasks 📧**
+- 📧 **Automated Email Reminders for Tasks**
 - 🏷 **Task Status: Pending, In Progress, Completed**
 - 🔍 **User-friendly- Built with Material UI for a sleek and responsive design.**
 - ✅ **Real-time Updates - Changes are reflected instantly.**
@@ -55,6 +55,7 @@ Task-Manager/
 │   │   ├── App.js       # App entry point
 │   │   ├── index.js     # React root file
 │-- README.md
+
 
 ---
 ## 📩 Email Reminder Implementation
@@ -162,5 +163,5 @@ Feel free to fork this repo, make enhancements, and create a pull request. Contr
 ---
 
 ## 📜 License
-MIT License © 2025 Your Name
+MIT License © 2025
 
